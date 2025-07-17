@@ -1,0 +1,19 @@
+body {
+    background-color: #e0f7fa;
+    font-family: 'Segoe UI', sans-serif;
+}
+
+.card-title {
+    color: #0277bd !important;
+}
+
+.navbar {
+    background-color: #0288d1 !important;
+}
+
+.card {
+    border: none;
+    background-color: #ffffff;
+    border-radius: 10px;
+}
+
